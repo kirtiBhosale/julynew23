@@ -11,7 +11,7 @@ app.get('/', function(req, res){
  res.send("hello world in my first");
  res.send("my first program");
 });
-consol.log("welcome to myjuly23branch devlop");
+
 app.get('/hello', function(req, res){
  
   res.send("welcome to first program");
