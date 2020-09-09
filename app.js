@@ -8,6 +8,9 @@ console.log(__dirname) ;
 console.log("added for checking the commit");
 console.log("added for checking the commit");
 console.log("added for checking the commit");
+console.log("added for checking the commit");
+console.log("added for checking the commit");
+
 app.get('/', function(req, res){
  res.sendFile(__dirname +'/AppPages/MyPage.html');
  
